@@ -13,7 +13,7 @@ Currently building, learning, and refusing to stay average.
 - I love to be around people 🤸🏾‍♀️
 - I love Boba 🧋
 
-Attached below is a demo of one project I really love:
+Attached below is a demo of one project I really love, built with my hackathon teammates! :
 ## BridgeMind Project Preview
 https://github.com/user-attachments/assets/8aa20d35-f05b-4cb2-9aab-b807311b6a95
 
