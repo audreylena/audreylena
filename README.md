@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Audrey 👋
 
-<!--
-**audreylena/audreylena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things when I see a problem.  
+Sometimes that becomes a hackathon win. Sometimes it becomes a new project. Always it becomes a learning experience.
 
-Here are some ideas to get you started:
+Computer Engineering student at UNT focused on:
+- Real-world software and systems
+- Global tech accessibility
+- Turning ideas into shipped projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+Currently building, learning, and refusing to stay average.
 - ⚡ Fun fact: ...
+- I love to play Tennis
+- I love to be around people
+- I love Boba
 -->
+
+Attached below is a demo of one project I really love:
+## BridgeMind Project Preview
+https://github.com/user-attachments/assets/8aa20d35-f05b-4cb2-9aab-b807311b6a95
+
