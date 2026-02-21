@@ -1,5 +1,4 @@
-# Hi, I’m Audrey 👋
-
+# Hi, I’m Audrey 👋 💃🏿
 I build things when I see a problem.  
 Sometimes that becomes a hackathon win. Sometimes it becomes a new project. Always it becomes a learning experience.
 
