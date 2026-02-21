@@ -9,10 +9,9 @@ Computer Engineering student at UNT focused on:
 
 Currently building, learning, and refusing to stay average.
 - ⚡ Fun fact: ...
-- I love to play Tennis
-- I love to be around people
-- I love Boba
--->
+- I love to play Tennis 🎾
+- I love to be around people 🤸🏾‍♀️
+- I love Boba 🧋
 
 Attached below is a demo of one project I really love:
 ## BridgeMind Project Preview
