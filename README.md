@@ -17,3 +17,4 @@ Attached below is a demo of one project I really love, built with my hackathon t
 ## BridgeMind Project Preview
 https://github.com/user-attachments/assets/8aa20d35-f05b-4cb2-9aab-b807311b6a95
 
+https://github.com/bethanyfinesse/bridgemindapp
